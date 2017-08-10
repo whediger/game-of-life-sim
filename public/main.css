@@ -1,0 +1,42 @@
+header {
+    background-color: orange;
+    color: darkblue;
+    height: 5vh;
+    width:100%;
+}
+
+#nav-container {
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    background-color: darkblue;
+    color: white;
+    height: 5vh;
+    width: 100vw;
+}
+
+button {
+    width: 100px;
+    border-radius: 50%;
+    background-color: darkred;
+    color: lightgray; 
+    outline:0;
+    font-size: 20px;
+}
+
+button:hover {
+    cursor:pointer;
+    color: white;
+    background-color: red;
+    transition: color .5s, background-color .5s;
+}
+
+#content {
+    background-color: black;
+    height: 90vh;
+    width: 100vw;
+}
+
+.cell {
+    position: absolute;
+}

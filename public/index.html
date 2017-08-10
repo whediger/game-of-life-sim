@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Game of life</title>
+    <link rel='stylesheet' type='text/css' href='main.css'>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css'>
+    <script src='main.js'></script>
+  </head>
+  <body onload='drawGrid()'>
+      <header>The Game of Life - for more info: 
+          <a href='https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life'>
+              game of life wiki</a><br>
+          You can pause the simulation and add or remove cells by clicking on spaces
+      </header>
+    <div id='nav-container'>
+        <button type='button' onclick="step()">start</button>
+        <button type='button' onclick="pause()">pause</button>
+    </div>
+    <div id='content'>
+    
+    </div>
+  </body>
+</html>
