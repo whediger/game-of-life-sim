@@ -2,7 +2,7 @@
 
 ## The Game of life is a 'cellular automaton', and was invented by Cambridge mathematician John Conway.
 
-## For an indepth description: [Game of Life Wiki] (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
+## For an indepth description: [Game of Life Wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
 
 ## The Simulation
     * The simulation is populated with randomly generated cells
