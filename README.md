@@ -5,10 +5,10 @@
 ## For an indepth description: [Game of Life Wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
 
 ## The Simulation
-    * The simulation is populated with randomly generated cells
-    * You can pause and start the simulation
-    * You can experiment by clicking to add and remove cells 
-    * Read the Wiki artile to understand the significance of this model
+* The simulation is populated with randomly generated cells
+* You can pause and start the simulation
+* You can experiment by clicking to add and remove cells 
+* Read the Wiki artile to understand the significance of this model
  
 ## The Rules
 * For a space that is 'populated':
